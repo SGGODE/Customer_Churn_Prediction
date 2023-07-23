@@ -28,8 +28,9 @@ The Customer Churn Prediction model is built using a logistic regression algorit
 
 3. Train the model using the `Customer Churn Prediction.py` script:
 
-4. The trained model will be saved as a pickle file in the `models` folder.
+## Evaluation
+The model's performance can be evaluated using various metrics, such as accuracy, precision, recall, and F1-score.
 
-5. Load the model and make predictions in your application:
-
+## Contributing
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
 
