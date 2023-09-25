@@ -11,6 +11,7 @@ This repository contains a machine learning model for predicting customer churn 
 - scikit-learn
 - matplotlib
 - seaborn
+- Flask
 
 ## Dataset
 
