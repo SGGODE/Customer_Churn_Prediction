@@ -6,11 +6,11 @@ This repository contains a machine learning model for predicting customer churn 
 
 ## Dependencies
 
-- pandas
-- numpy
-- scikit-learn
-- matplotlib
-- seaborn
+- Pandas
+- Numpy
+- Scikit-learn
+- Matplotlib
+- Seaborn
 - Flask
 
 ## Dataset
